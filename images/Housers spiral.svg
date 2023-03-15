@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect x="55.59" y="54.729" width="397.346" height="397.346" rx="21" ry="21" style="stroke: rgb(0, 0, 0);"/>
+  <g stroke="hsl(10, 75%, 40%)" fill="none" stroke-linecap="round" transform="matrix(0.309002, 0, 0, 0.309002, 126.399178, 121.288139)" style="">
+    <circle r="506" cx="400" cy="400" stroke-width="18" stroke-dasharray="3179 3179" transform="rotate(360, 400, 400)"/>
+    <circle r="483" cx="400" cy="400" stroke-width="18" stroke-dasharray="2890 3035" transform="rotate(343, 400, 400)"/>
+    <circle r="460" cx="400" cy="400" stroke-width="18" stroke-dasharray="2615 2890" transform="rotate(326, 400, 400)"/>
+    <circle r="437" cx="400" cy="400" stroke-width="18" stroke-dasharray="2354 2746" transform="rotate(309, 400, 400)"/>
+    <circle r="414" cx="400" cy="400" stroke-width="18" stroke-dasharray="2106 2601" transform="rotate(291, 400, 400)"/>
+    <circle r="391" cx="400" cy="400" stroke-width="18" stroke-dasharray="1872 2457" transform="rotate(274, 400, 400)"/>
+    <circle r="368" cx="400" cy="400" stroke-width="18" stroke-dasharray="1652 2312" transform="rotate(257, 400, 400)"/>
+    <circle r="345" cx="400" cy="400" stroke-width="18" stroke-dasharray="1445 2168" transform="rotate(240, 400, 400)"/>
+    <circle r="322" cx="400" cy="400" stroke-width="18" stroke-dasharray="1252 2023" transform="rotate(223, 400, 400)"/>
+    <circle r="299" cx="400" cy="400" stroke-width="18" stroke-dasharray="1074 1879" transform="rotate(206, 400, 400)"/>
+    <circle r="276" cx="400" cy="400" stroke-width="18" stroke-dasharray="908 1734" transform="rotate(189, 400, 400)"/>
+    <circle r="253" cx="400" cy="400" stroke-width="18" stroke-dasharray="757 1590" transform="rotate(171, 400, 400)"/>
+    <circle r="230" cx="400" cy="400" stroke-width="18" stroke-dasharray="619 1445" transform="rotate(154, 400, 400)"/>
+    <circle r="207" cx="400" cy="400" stroke-width="18" stroke-dasharray="495 1301" transform="rotate(137, 400, 400)"/>
+    <circle r="184" cx="400" cy="400" stroke-width="18" stroke-dasharray="385 1156" transform="rotate(120, 400, 400)"/>
+    <circle r="161" cx="400" cy="400" stroke-width="18" stroke-dasharray="289 1012" transform="rotate(103, 400, 400)"/>
+    <circle r="138" cx="400" cy="400" stroke-width="18" stroke-dasharray="206 867" transform="rotate(86, 400, 400)"/>
+    <circle r="115" cx="400" cy="400" stroke-width="18" stroke-dasharray="138 723" transform="rotate(69, 400, 400)"/>
+    <circle r="92" cx="400" cy="400" stroke-width="18" stroke-dasharray="83 578" transform="rotate(51, 400, 400)"/>
+    <circle r="69" cx="400" cy="400" stroke-width="18" stroke-dasharray="41 434" transform="rotate(34, 400, 400)"/>
+    <circle r="46" cx="400" cy="400" stroke-width="18" stroke-dasharray="14 289" transform="rotate(17, 400, 400)"/>
+    <circle r="23" cx="400" cy="400" stroke-width="18" stroke-dasharray="0 145"/>
+  </g>
+</svg>
