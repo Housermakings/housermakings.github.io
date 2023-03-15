@@ -23,8 +23,3 @@ input[readonly] {
   background-color: white !important;
   cursor: text !important;
 }
-
-/* this is only due to codepen display don't use this outside of codepen */
-.container {
-  padding-top: 20px;
-}
